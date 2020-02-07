@@ -32,6 +32,8 @@ If money isn't a problem for you, just take the first two bundles, you'll enjoy 
 
 - [x] [arXiv](https://arxiv.org/) : Research papers.
 
+- [x] No course will bring you up from Zero to Hero. You have to be curious and try to tackle many problems. The is a beautiful place called Google where you can find answers to your questions. :fire:
+
 ## Tooling
 
 - [x] **Tool** [Google's Colab](https://colab.research.google.com/) : A free fully managed Jupyter workspace. You get a free GPU/TPU and you can do a lot of experiments. You can also sync your work with Github.
