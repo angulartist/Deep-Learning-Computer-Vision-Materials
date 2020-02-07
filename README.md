@@ -23,3 +23,21 @@ Some Deep Learning applied to Computer Vision materials
 If money isn't a problem for you, just take the first two bundles, you'll enjoy them. Take the last bundle only if you are really familiar with Deep Learning and want to do deeper research.
 
 - [x] **~ 30 bucks** [François Chollet's DL with Python book](https://www.manning.com/books/deep-learning-with-python) : François Chollet is a french ML researcher and the author of the famous high-level deep-learning API Keras. Just learn from the best ;)
+
+## To the moon
+
+- [x] [Ian Goodfellow Deep Learning](https://www.deeplearningbook.org/) : A.K.A. The Deep-Learning Bible.
+
+- [x] **Pratice** [Kaggle](https://www.kaggle.com/) : Reading and watching videos is not enough. You **must** practice. You'll forget these concepts until you spin up a Jupyter Notebook and start doing. And Kaggle is the place-to-go. There is data... a lot of data... competitions and discussions. Compare your work to others and become better every day ;)
+
+- [x] [arXiv](https://arxiv.org/) : Research papers.
+
+## Tooling
+
+- [x] **Tool** [Google's Colab](https://colab.research.google.com/) : A free fully managed Jupyter workspace. You get a free GPU/TPU and you can do a lot of experiments. You can also sync your work with Github.
+
+- [x] **Tool** [FloydHub](https://www.floydhub.com/) : And easy-to-use way to run Python scripts and Jupyter Notebooks on the cloud. The downside is that can become very expensive. The cheapest GPU is a Tesla K80 and costs around $1 per hour. I use it to train big models after having validated them locally or on Colab.
+
+## What if I don't know Python?
+
+Unlucky bro.
