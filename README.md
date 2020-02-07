@@ -4,7 +4,7 @@ Some Deep Learning applied to Computer Vision materials
 ## Start with
 - [x] **Free** [Andrew Ng's ML Course](https://www.coursera.org/learn/machine-learning) : It covers the fundamentals of Machine Learning. Learn things about Linear Algebra and famous ML algorithms. A must have to build deep foundations in the field.
 
-- [x] **~ 40 bucks a month** [Datacamp's ML Scientist path](https://www.datacamp.com/tracks/machine-learning-scientist-with-python) : You can take this course for a more hands-on approach. Quality content and many browser-based exercises. That's a great combination with the ML Course above.
+- [x] **~40 bucks a month** [Datacamp's ML Scientist path](https://www.datacamp.com/tracks/machine-learning-scientist-with-python) : You can take this course for a more hands-on approach. Quality content and many browser-based exercises. That's a great combination with the ML Course above.
 
 - [x] **~30 bucks** [Aurélien Géron ML Book](https://www.amazon.fr/dp/B07XGF2G87) : That's the first book of this repo. It's simply incredible. You'll learn how to prepare your data, how to pick up the right ML algorithm for a given task, techniques to build efficient ML pipelines, core principles of neural nets... It a good mix between theory and practice and I highly recommend you to read it. It will obviously overlap to some degree with the two courses above but I always enjoy another point of view ;)
 
@@ -22,7 +22,7 @@ Some Deep Learning applied to Computer Vision materials
 
 If money isn't a problem for you, just take the first two bundles, you'll enjoy them. Take the last bundle only if you are really familiar with Deep Learning and want to do deeper research.
 
-- [x] **~ 30 bucks** [François Chollet's DL with Python book](https://www.manning.com/books/deep-learning-with-python) : François Chollet is a french ML researcher and the author of the famous high-level deep-learning API Keras. Just learn from the best ;)
+- [x] **~30 bucks** [François Chollet's DL with Python book](https://www.manning.com/books/deep-learning-with-python) : François Chollet is a french ML researcher and the author of the famous high-level deep-learning API Keras. Just learn from the best ;)
 
 ## To the moon
 
