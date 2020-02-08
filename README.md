@@ -22,7 +22,7 @@ Some Deep Learning applied to Computer Vision materials
 
 If money isn't a problem for you, just take the first two bundles, you'll enjoy them. Take the last bundle only if you are really familiar with Deep Learning and want to do deeper research.
 
-- [x] **~30 bucks** [François Chollet's DL with Python book](https://www.manning.com/books/deep-learning-with-python) : François Chollet is a french ML researcher and the author of the famous high-level deep-learning API Keras. Just learn from the best ;)
+- [x] **~30 bucks** [François Chollet's DL with Python book](https://www.manning.com/books/deep-learning-with-python) : François Chollet is a french ML researcher and the author of the famous high-level deep-learning API Keras. This book is divided into two parts: The first one focuses on ML/Deep Learning history, tensor, optimizations, evaluation and key concepts on how to deal with overfitting. The second part is more practical: Different architectures such as ConvNets, RNN, LTSM, best practices and beyond deep-learning. Just learn from the best ;)
 
 ## To the moon
 
